@@ -3,7 +3,7 @@ project_id: P2508PE-01
 title: Desktop Clock
 owner: personal
 status: COMPLETED
-ideation_date: 2025-09-10
+ideation_date: 2025-09-03
 domain: "- physical"
 subdomains: "- electrical"
 repository: "[https://github.com/Sudharsshan/ESP8266-Desktop-clock-using-P10-LED-module.git](https://github.com/Sudharsshan/ESP8266-Desktop-clock-using-P10-LED-module.git)"
